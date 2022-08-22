@@ -1,0 +1,73 @@
+/* 
+
+.navContainer {
+
+  font-family: "ibm-plex-arabic", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+     /* padding-left: 20px; */
+     /* padding-right: 20px;
+    position: relative; */
+    /* padding-top: 10px; */
+    
+   /* background: #FFFFFF; */
+/* }
+
+.navContainer ul {
+  list-style: none;
+  display: flex;
+
+}
+
+.navContainer ul li {
+ justify-content: space-between;
+ padding: 2px 20px;
+
+  font-size: 15px;
+
+}
+
+.navContainer ul li:hover{
+  cursor: pointer;
+}  */
+
+/* .btnicon{
+  visibility: hidden;}
+
+.btnicon:hover{
+  visibility: visible;} */
+
+
+/*  if there was a link
+.navContainer ul li a{
+  text-decoration: none;
+
+} */
+
+
+
+/* 
+.thebar{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:50px;
+    padding-left:30px;
+    font-size:small;
+    cursor: pointer;}
+    /* font-weight: 600; */
+
+
+ 
+  
+
+/* .logoimg{
+  padding-right:25px;
+} */
